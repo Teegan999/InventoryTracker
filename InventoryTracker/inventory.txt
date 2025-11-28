@@ -1,0 +1,8 @@
+📦 CURRENT INVENTORY:
+
+Coca-Cola: 3
+Monster: 6
+Pepsi: 8
+Sparkling Water: 9
+Coo-ee: 2
+Red Bull: 7
